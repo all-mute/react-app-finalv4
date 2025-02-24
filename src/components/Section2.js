@@ -13,7 +13,7 @@ function NextSection() {
 
         <div className="main__video2">
         <video autoPlay loop playsInline muted controls className="video-bg">
-    <source src="/mainvideoweb.mp4" type="video/mp4" />
+    <source src="https://storage.googleapis.com/crypto-utils-1/mainvideoweb.mp4" type="video/mp4" />
 </video>
 
         </div>

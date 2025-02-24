@@ -59,7 +59,7 @@ function NextSection() {
         <div className="tabl tabl5">
         <div className="main__video5">
             <video autoPlay loop muted playsInline className="video-bg5">
-                <source src="/ai5.mp4" type="video/mp4" />
+                <source src="https://storage.googleapis.com/crypto-utils-1/ai5.mp4" type="video/mp4" />
             </video>
         </div>
         </div>
